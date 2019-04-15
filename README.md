@@ -1,9 +1,8 @@
 # cra-express-mysql
 
-This project is an experimentation with full stack configuration of :
-NODE, EXPRESS, MYSQL, CREATE REACT APP and other development packages.
-The purpose is to learn and create a full-stack for further projects.
-You're encourages to critique my work and offer suggestions.
+This project is my new portfolio.It's has been made from the boilerplate code at: https://github.com/Trevorjoel/cra-express-mysql
+NODE, EXPRESS, MYSQL, CREATE REACT APP & Foundation.
+
 
 ## Available Scripts
 
