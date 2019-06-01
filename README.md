@@ -1,6 +1,7 @@
 # cra-express-mysql
 
-This project is my new portfolio.It's has been made from the boilerplate code at: https://github.com/Trevorjoel/cra-express-mysql
+This project is another stack experimentation for my new portfolio. It has been made from the boilerplate code at: https://github.com/Trevorjoel/cra-express-mysql
+Here I am adding the front end framework foundation to see how it ties in with React components.
 NODE, EXPRESS, MYSQL, CREATE REACT APP & Foundation.
 
 
