@@ -5,8 +5,7 @@ Here I am adding the front end framework foundation to see how it ties in with R
 NODE, EXPRESS, MYSQL, CREATE REACT APP & Foundation.
 
 
-# Project was an experimentation in front end build tools to it's experimental nature
-
+# Project was an experimentation in front end build tools.
 ## Findings:
 Foundation-sites is cool but it's not well supported with React. 
 Bootstrap + React or 'react-strap' provides far better community and documentation support.
